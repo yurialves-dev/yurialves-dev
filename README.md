@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#000099&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Yuri+Alves;I+study+Software+Engineering;I’m+from+Brazil,+living+in+Minas+Gerais.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -14,10 +14,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yurialves-dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/seuuseraqui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
+<div align="center">
+  <a href="https://www.linkedin.com/in/seuuseraqui/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/seuuseraqui/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
 ### Main skills:
 ![Java](https://img.shields.io/badge/Java-000000?logo=OpenJDK&logoColor=white&style=for-the-badge)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
@@ -39,7 +44,7 @@
 ![C](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=red&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-000000?logo=OpenJDK&logoColor=white&style=for-the-badge)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
@@ -48,4 +53,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yurialves-dev}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#RRGGBB&height=120&section=footer"/>
